@@ -7,9 +7,9 @@ POST http://localhost:3000/messages
 content-type: application/json
 
 {
-  "content": "Bye there"
+  "content": "message after Dependency Injection ( refactoring )"
 }
 
 
 ### Get a particular message
-GET http://localhost:3000/messages/1779
+GET http://localhost:3000/messages/174
